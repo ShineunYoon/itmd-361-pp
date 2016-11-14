@@ -29,7 +29,7 @@ ems:
 
       html {
         font-size: 1.125em;
-        padding: 12px 6px 6px 12px;
+        padding: 0.75em 0.375em 0.75em 0.375em;
       }
 
 4. Consider the following CSS. Assuming a browser with its base size at 1em = 16px, how big is h2,
